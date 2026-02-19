@@ -1,4 +1,4 @@
-Smart Network Dashboard (C++20)
+Smart Network Dashboard (Python 3.13)
 
 MVP:
 - Device config via JSON
