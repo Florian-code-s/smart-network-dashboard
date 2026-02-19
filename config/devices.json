@@ -1,0 +1,5 @@
+{
+  "devices": [
+    { "name": "router1", "ip": "192.168.1.1", "type": "router", "ports": [22, 443] }
+  ]
+}
